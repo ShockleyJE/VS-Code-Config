@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "html.autoClosingTags": false,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "thunder-client.codeSnippetLanguage": "js-fetch",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "explorer.confirmDelete": false
+}
